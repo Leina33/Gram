@@ -1,4 +1,4 @@
 Hello {{name}}
 
-Welcome to the Instagram newsletter
+Welcome to the Instagram plartform
 You will find the most exciting news about Instagram.

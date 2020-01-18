@@ -3,8 +3,8 @@ from django.template.loader import render_to_string
 
 def send_welcome_email(name,receiver):
     # Creating message subject and sender
-    subject = 'Welcome to the Instagram NewsLetter'
-    sender = 'moringamelissa254@gmail.com'
+    subject = 'Welcome to the Instagram plartform'
+    sender = 'dominickrutto@gmail.com'
 
     #passing in the context vairables
     text_content = render_to_string('email/instagramemail.txt',{"name": name})
